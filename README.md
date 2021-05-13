@@ -3,4 +3,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq14developer&label=Profile%20views&color=0e75b6&style=flat" alt="Tanishq Chawda" /> </p>
 
- 🌱 I’m currently learning <img scr="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> Android , Database: Firebase , Web Developing
+ 🌱 I’m currently learning <img scr="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="29px"> Android , Database: Firebase , Web Developing
