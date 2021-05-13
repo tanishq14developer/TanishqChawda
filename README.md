@@ -2,3 +2,5 @@
 <h3 align="center">Android Developer | Programmer| ⭕penSource Contributor | 🙋‍♂️Learner </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq14developer&label=Profile%20views&color=0e75b6&style=flat" alt="Tanishq Chawda" /> </p>
+
+ 🌱 I’m currently learning Android , Database: Firebase , Web Developing
