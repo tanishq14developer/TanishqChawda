@@ -8,3 +8,10 @@
  - 👨‍💻 All of my projects are available at https://github.com/tanishq14developer
  
  - 📫 How to reach me **tanishq.happy@gmail.com**
+
+### About Me 🚀
+🎓 I’m an Open-Source enthusiast & pursuing my Bachelors in Computer Science Engineering.</br>
+👨‍💻  I am passionate about Android Dev, Web Dev, Programmer & I enjoy learning new things. </br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
